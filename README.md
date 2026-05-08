@@ -1,1 +1,1 @@
-This project allows a user to generate a 8 random character password 
+This project allows users to generate a secure random 8 character password using a combination of letters, numbers and special characters
